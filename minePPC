@@ -1,0 +1,3 @@
+
+
+cgminer -o stratum+tcp://peercoin.ecoining.com:3336 -u conorpp.conorpp1 -p wowsuchpeersocoin --anu-freq 250

@@ -1,0 +1,3 @@
+set GPU_MAX_ALLOC_PERCENT=100    
+cudaminer.exe -o stratum+tcp://terrier.dogehouse.org:3332  -u "conorpp.conorpp1" -p "givemethatsweetdoge"  -H 1 -i 0 -C 1 -l K6x32    
+PAUSE

@@ -1,0 +1,4 @@
+setx GPU_MAX_ALLOC_PERCENT 30
+setx GPU_USE_SYNC_OBJECTS 1
+
+cudaminer -H 2 -i 1 -C 2 -l auto -o stratum+tcp://global.wemineltc.com:3334 -u "conorpp.1" -p "giveMeTheCoin" --lookup-gap 0  
